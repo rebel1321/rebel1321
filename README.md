@@ -40,6 +40,10 @@
 ---
 
 ## 💼 Experience
+### 💻 MERN Stack Intern @GNCIPL(Remote) (Aug 2025 – October 2025)
+- Built full-stack web modules using React.js, Node.js, Express.js, and MongoDB
+- Led a 6-member team to develop GlobalConnect, a real-time MERN platform
+- Integrated Tailwind CSS, Socket.io, Node-Cron, and Cloudinary to enhance performance, real-time communication, and automation
 
 ### 💻 Backend Developer Intern @ Luminaries (Mar 2025 – May 2025)
 - Built backend modules for student, teacher, and fee tracking system  
