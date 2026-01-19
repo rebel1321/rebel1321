@@ -48,6 +48,11 @@ Results-driven Full Stack Developer with experience designing and building scala
 
 ## Selected Projects  
 
+### Global Connect (Professional Networking Platform)  
+A full-stack professional networking and job platform combining social features with real-time communication and recruiter-candidate workflows. Supports post creation, connections, job applications, and live messaging with performance-optimized data loading.  
+**Tech:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Tailwind CSS, JWT, Cloudinary  
+🔗 https://github.com/rebel1321/GNCIPL_GLOBAL_CONNECT.git
+🌐 https://gncipl-global-connect.vercel.app/
 ### Job Portal  
 A full-stack job hiring platform supporting employer and candidate workflows, including authentication and role-based access.  
 **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS  
