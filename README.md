@@ -16,7 +16,7 @@ Results-driven Full Stack Developer with experience designing and building scala
 ## Technical Skills  
 
 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Redux Toolkit  
-**Backend:** Node.js, Express.js, Java, Spring Boot, GoLang
+**Backend:** Node.js, Express.js, Java, Spring Boot, GoLang  
 **Databases:** MongoDB, MySQL  
 **Authentication & Security:** JWT, OAuth, Spring Security  
 **Tools & Platforms:** Git, GitHub, Postman, VS Code, Vercel, Render  
