@@ -16,7 +16,7 @@ Results-driven Full Stack Developer with experience designing and building scala
 ## Technical Skills  
 
 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Redux Toolkit  
-**Backend:** Node.js, Express.js, Java, Spring Boot  
+**Backend:** Node.js, Express.js, Java, Spring Boot, GoLang 
 **Databases:** MongoDB, MySQL  
 **Authentication & Security:** JWT, OAuth, Spring Security  
 **Tools & Platforms:** Git, GitHub, Postman, VS Code, Vercel, Render  
@@ -65,9 +65,9 @@ Real-time ride booking application featuring live location tracking and socket-b
 🔗 https://github.com/rebel1321/Uber  
 🌐 https://uber-sepia-five.vercel.app  
 
-### Blog Platform (Appwrite)  
-Authentication-enabled blogging platform with rich text editing and user management.  
-**Tech:** React.js, Appwrite, Tailwind CSS  
+### Blog Platform (Full Stack)  
+Authentication-enabled blogging platform with rich text editing and user management, built with a custom Go backend and MongoDB.
+**Tech:** React.js, Go, MongoDB, JWT, Tailwind CSS, Cloudinary, REST API 
 🔗 https://github.com/rebel1321/BlogSite  
 🌐 https://blog-site-self-two.vercel.app  
 
