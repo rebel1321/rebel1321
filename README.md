@@ -46,7 +46,7 @@ Results-driven Full Stack Developer with experience designing and building scala
 
 ---
 
-## Selected Projects  
+## Projects  
 
 ### Global Connect (Professional Networking Platform)  
 A full-stack professional networking and job platform combining social features with real-time communication and recruiter-candidate workflows. Supports post creation, connections, job applications, and live messaging with performance-optimized data loading.  
