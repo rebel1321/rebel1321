@@ -2,7 +2,7 @@
 **Full Stack Developer | MERN & Spring Boot | Open Source Contributor**  
 
 📍 India  
-📧 psrebel8@gmail.com  
+📧 satyamtripathi1421@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/satyamtripathi1421  
 🌐 Portfolio: https://satyamtripathi.vercel.app  
 
