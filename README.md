@@ -93,8 +93,7 @@ Percentage: 91.8%
 
 ## GitHub Activity  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebel1321&show_icons=true&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=rebel1321)  
+![GitHub Stats](https://ghstats.dev/api/card?username=rebel1321&theme=tokyonight) 
 
 ---
 
